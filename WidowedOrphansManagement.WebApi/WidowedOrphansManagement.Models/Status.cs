@@ -1,0 +1,8 @@
+﻿namespace WidowedOrphansManagement.Models
+{
+    public class Status
+    {
+        public int Id { get; set; }
+        public string StatusName { get; set; }  // אלמן/ה, יתום/ה
+    }
+}

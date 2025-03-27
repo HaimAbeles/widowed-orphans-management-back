@@ -1,0 +1,22 @@
+C:\Users\haimabe\source\repos\WidowedOrphansManagement.WebApi\WidowedOrphansManagement.Models\bin\Debug\net8.0\WidowedOrphansManagement.Models.deps.json
+C:\Users\haimabe\source\repos\WidowedOrphansManagement.WebApi\WidowedOrphansManagement.Models\bin\Debug\net8.0\WidowedOrphansManagement.Models.dll
+C:\Users\haimabe\source\repos\WidowedOrphansManagement.WebApi\WidowedOrphansManagement.Models\bin\Debug\net8.0\WidowedOrphansManagement.Models.pdb
+C:\Users\haimabe\source\repos\WidowedOrphansManagement.WebApi\WidowedOrphansManagement.Models\obj\Debug\net8.0\WidowedOrphansManagement.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haimabe\source\repos\WidowedOrphansManagement.WebApi\WidowedOrphansManagement.Models\obj\Debug\net8.0\WidowedOrphansManagement.Models.AssemblyInfoInputs.cache
+C:\Users\haimabe\source\repos\WidowedOrphansManagement.WebApi\WidowedOrphansManagement.Models\obj\Debug\net8.0\WidowedOrphansManagement.Models.AssemblyInfo.cs
+C:\Users\haimabe\source\repos\WidowedOrphansManagement.WebApi\WidowedOrphansManagement.Models\obj\Debug\net8.0\WidowedOrphansManagement.Models.csproj.CoreCompileInputs.cache
+C:\Users\haimabe\source\repos\WidowedOrphansManagement.WebApi\WidowedOrphansManagement.Models\obj\Debug\net8.0\WidowedOrphansManagement.Models.dll
+C:\Users\haimabe\source\repos\WidowedOrphansManagement.WebApi\WidowedOrphansManagement.Models\obj\Debug\net8.0\refint\WidowedOrphansManagement.Models.dll
+C:\Users\haimabe\source\repos\WidowedOrphansManagement.WebApi\WidowedOrphansManagement.Models\obj\Debug\net8.0\WidowedOrphansManagement.Models.pdb
+C:\Users\haimabe\source\repos\WidowedOrphansManagement.WebApi\WidowedOrphansManagement.Models\obj\Debug\net8.0\ref\WidowedOrphansManagement.Models.dll
+C:\Users\haimabe\Desktop\Haim Work\WidowedOrphansManagement\WidowedOrphansManagement.WebApi\WidowedOrphansManagement.Models\bin\Debug\net8.0\WidowedOrphansManagement.Models.deps.json
+C:\Users\haimabe\Desktop\Haim Work\WidowedOrphansManagement\WidowedOrphansManagement.WebApi\WidowedOrphansManagement.Models\bin\Debug\net8.0\WidowedOrphansManagement.Models.dll
+C:\Users\haimabe\Desktop\Haim Work\WidowedOrphansManagement\WidowedOrphansManagement.WebApi\WidowedOrphansManagement.Models\bin\Debug\net8.0\WidowedOrphansManagement.Models.pdb
+C:\Users\haimabe\Desktop\Haim Work\WidowedOrphansManagement\WidowedOrphansManagement.WebApi\WidowedOrphansManagement.Models\obj\Debug\net8.0\WidowedOrphansManagement.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haimabe\Desktop\Haim Work\WidowedOrphansManagement\WidowedOrphansManagement.WebApi\WidowedOrphansManagement.Models\obj\Debug\net8.0\WidowedOrphansManagement.Models.AssemblyInfoInputs.cache
+C:\Users\haimabe\Desktop\Haim Work\WidowedOrphansManagement\WidowedOrphansManagement.WebApi\WidowedOrphansManagement.Models\obj\Debug\net8.0\WidowedOrphansManagement.Models.AssemblyInfo.cs
+C:\Users\haimabe\Desktop\Haim Work\WidowedOrphansManagement\WidowedOrphansManagement.WebApi\WidowedOrphansManagement.Models\obj\Debug\net8.0\WidowedOrphansManagement.Models.csproj.CoreCompileInputs.cache
+C:\Users\haimabe\Desktop\Haim Work\WidowedOrphansManagement\WidowedOrphansManagement.WebApi\WidowedOrphansManagement.Models\obj\Debug\net8.0\WidowedOrphansManagement.Models.dll
+C:\Users\haimabe\Desktop\Haim Work\WidowedOrphansManagement\WidowedOrphansManagement.WebApi\WidowedOrphansManagement.Models\obj\Debug\net8.0\refint\WidowedOrphansManagement.Models.dll
+C:\Users\haimabe\Desktop\Haim Work\WidowedOrphansManagement\WidowedOrphansManagement.WebApi\WidowedOrphansManagement.Models\obj\Debug\net8.0\WidowedOrphansManagement.Models.pdb
+C:\Users\haimabe\Desktop\Haim Work\WidowedOrphansManagement\WidowedOrphansManagement.WebApi\WidowedOrphansManagement.Models\obj\Debug\net8.0\ref\WidowedOrphansManagement.Models.dll

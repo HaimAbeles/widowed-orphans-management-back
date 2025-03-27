@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sSRpMH71eYzannX6Pm5zBhMNZ5stA8d/klY3abWTSIc=",
+  "Source": "WidowedOrphansManagement.WebApi",
+  "BasePath": "_content/WidowedOrphansManagement.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

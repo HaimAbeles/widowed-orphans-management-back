@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WidowedOrphansManagement.WebApi.props" />
+</Project>

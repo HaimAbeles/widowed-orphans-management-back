@@ -1,0 +1,143 @@
+[
+  {
+    "ContainingType": "WidowedOrphansManagement.WebApi.Controllers.ExcelController",
+    "Method": "DownloadOrphansExample",
+    "RelativePath": "api/Excel/download-orphans-example",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WidowedOrphansManagement.WebApi.Controllers.ExcelController",
+    "Method": "DownloadParentsExample",
+    "RelativePath": "api/Excel/download-parents-example",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WidowedOrphansManagement.WebApi.Controllers.ExcelController",
+    "Method": "UploadOrphansExcel",
+    "RelativePath": "api/Excel/upload-orphans",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WidowedOrphansManagement.WebApi.Controllers.ExcelController",
+    "Method": "UploadParentsExcel",
+    "RelativePath": "api/Excel/upload-parents",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WidowedOrphansManagement.WebApi.Controllers.ParentOrphanController",
+    "Method": "GetParentsAndOrphans",
+    "RelativePath": "api/ParentOrphan/get-parents-and-orphans",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WidowedOrphansManagement.WebApi.Controllers.StatusController",
+    "Method": "GetStatuses",
+    "RelativePath": "api/Status",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WidowedOrphansManagement.WebApi.Controllers.StatusController",
+    "Method": "CreateStatus",
+    "RelativePath": "api/Status",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "status",
+        "Type": "WidowedOrphansManagement.Models.Status",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WidowedOrphansManagement.WebApi.Controllers.StatusController",
+    "Method": "GetStatus",
+    "RelativePath": "api/Status/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WidowedOrphansManagement.WebApi.Controllers.StatusController",
+    "Method": "UpdateStatus",
+    "RelativePath": "api/Status/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "status",
+        "Type": "WidowedOrphansManagement.Models.Status",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WidowedOrphansManagement.WebApi.Controllers.StatusController",
+    "Method": "DeleteStatus",
+    "RelativePath": "api/Status/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
