@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZHMp30tsPoI=",
+  "dgSpecHash": "0RwT8DFQIQU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\haimabe\\Desktop\\Haim Work\\WidowedOrphansManagement\\WidowedOrphansManagement.WebApi\\WidowedOrphansManagement.Models\\WidowedOrphansManagement.Models.csproj",
+  "projectFilePath": "C:\\Users\\haimabe\\Desktop\\Haim Work\\WidowedOrphansManagement\\widowed-orphans-management-back\\WidowedOrphansManagement.WebApi\\WidowedOrphansManagement.Models\\WidowedOrphansManagement.Models.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

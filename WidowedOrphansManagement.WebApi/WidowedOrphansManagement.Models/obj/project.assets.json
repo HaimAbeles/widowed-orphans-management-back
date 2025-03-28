@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\haimabe\\Desktop\\Haim Work\\WidowedOrphansManagement\\WidowedOrphansManagement.WebApi\\WidowedOrphansManagement.Models\\WidowedOrphansManagement.Models.csproj",
+      "projectUniqueName": "C:\\Users\\haimabe\\Desktop\\Haim Work\\WidowedOrphansManagement\\widowed-orphans-management-back\\WidowedOrphansManagement.WebApi\\WidowedOrphansManagement.Models\\WidowedOrphansManagement.Models.csproj",
       "projectName": "WidowedOrphansManagement.Models",
-      "projectPath": "C:\\Users\\haimabe\\Desktop\\Haim Work\\WidowedOrphansManagement\\WidowedOrphansManagement.WebApi\\WidowedOrphansManagement.Models\\WidowedOrphansManagement.Models.csproj",
+      "projectPath": "C:\\Users\\haimabe\\Desktop\\Haim Work\\WidowedOrphansManagement\\widowed-orphans-management-back\\WidowedOrphansManagement.WebApi\\WidowedOrphansManagement.Models\\WidowedOrphansManagement.Models.csproj",
       "packagesPath": "C:\\Users\\haimabe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\haimabe\\Desktop\\Haim Work\\WidowedOrphansManagement\\WidowedOrphansManagement.WebApi\\WidowedOrphansManagement.Models\\obj\\",
+      "outputPath": "C:\\Users\\haimabe\\Desktop\\Haim Work\\WidowedOrphansManagement\\widowed-orphans-management-back\\WidowedOrphansManagement.WebApi\\WidowedOrphansManagement.Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\haimabe\\AppData\\Roaming\\NuGet\\NuGet.Config",

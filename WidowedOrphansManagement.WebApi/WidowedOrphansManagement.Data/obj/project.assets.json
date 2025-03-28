@@ -4629,11 +4629,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\haimabe\\Desktop\\Haim Work\\WidowedOrphansManagement\\WidowedOrphansManagement.WebApi\\WidowedOrphansManagement.Data\\WidowedOrphansManagement.Data.csproj",
+      "projectUniqueName": "C:\\Users\\haimabe\\Desktop\\Haim Work\\WidowedOrphansManagement\\widowed-orphans-management-back\\WidowedOrphansManagement.WebApi\\WidowedOrphansManagement.Data\\WidowedOrphansManagement.Data.csproj",
       "projectName": "WidowedOrphansManagement.Data",
-      "projectPath": "C:\\Users\\haimabe\\Desktop\\Haim Work\\WidowedOrphansManagement\\WidowedOrphansManagement.WebApi\\WidowedOrphansManagement.Data\\WidowedOrphansManagement.Data.csproj",
+      "projectPath": "C:\\Users\\haimabe\\Desktop\\Haim Work\\WidowedOrphansManagement\\widowed-orphans-management-back\\WidowedOrphansManagement.WebApi\\WidowedOrphansManagement.Data\\WidowedOrphansManagement.Data.csproj",
       "packagesPath": "C:\\Users\\haimabe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\haimabe\\Desktop\\Haim Work\\WidowedOrphansManagement\\WidowedOrphansManagement.WebApi\\WidowedOrphansManagement.Data\\obj\\",
+      "outputPath": "C:\\Users\\haimabe\\Desktop\\Haim Work\\WidowedOrphansManagement\\widowed-orphans-management-back\\WidowedOrphansManagement.WebApi\\WidowedOrphansManagement.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\haimabe\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4652,8 +4652,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\haimabe\\Desktop\\Haim Work\\WidowedOrphansManagement\\WidowedOrphansManagement.WebApi\\WidowedOrphansManagement.Models\\WidowedOrphansManagement.Models.csproj": {
-              "projectPath": "C:\\Users\\haimabe\\Desktop\\Haim Work\\WidowedOrphansManagement\\WidowedOrphansManagement.WebApi\\WidowedOrphansManagement.Models\\WidowedOrphansManagement.Models.csproj"
+            "C:\\Users\\haimabe\\Desktop\\Haim Work\\WidowedOrphansManagement\\widowed-orphans-management-back\\WidowedOrphansManagement.WebApi\\WidowedOrphansManagement.Models\\WidowedOrphansManagement.Models.csproj": {
+              "projectPath": "C:\\Users\\haimabe\\Desktop\\Haim Work\\WidowedOrphansManagement\\widowed-orphans-management-back\\WidowedOrphansManagement.WebApi\\WidowedOrphansManagement.Models\\WidowedOrphansManagement.Models.csproj"
             }
           }
         }

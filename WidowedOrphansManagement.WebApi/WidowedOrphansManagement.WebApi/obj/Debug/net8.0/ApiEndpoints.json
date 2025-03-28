@@ -62,6 +62,184 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "WidowedOrphansManagement.WebApi.Controllers.ParentOrphanController",
+    "Method": "CreateOrphan",
+    "RelativePath": "api/ParentOrphan/orphan",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "orphanDto",
+        "Type": "WidowedOrphansManagement.Models.OrphanCreateUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WidowedOrphansManagement.Models.ParentOrphanDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WidowedOrphansManagement.WebApi.Controllers.ParentOrphanController",
+    "Method": "GetOrphan",
+    "RelativePath": "api/ParentOrphan/orphan/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WidowedOrphansManagement.Models.Orphan",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WidowedOrphansManagement.WebApi.Controllers.ParentOrphanController",
+    "Method": "UpdateOrphan",
+    "RelativePath": "api/ParentOrphan/orphan/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "orphanDto",
+        "Type": "WidowedOrphansManagement.Models.OrphanCreateUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WidowedOrphansManagement.WebApi.Controllers.ParentOrphanController",
+    "Method": "DeleteOrphan",
+    "RelativePath": "api/ParentOrphan/orphan/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WidowedOrphansManagement.WebApi.Controllers.ParentOrphanController",
+    "Method": "CreateParent",
+    "RelativePath": "api/ParentOrphan/parent",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "parentDto",
+        "Type": "WidowedOrphansManagement.Models.ParentCreateUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WidowedOrphansManagement.Models.ParentOrphanDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WidowedOrphansManagement.WebApi.Controllers.ParentOrphanController",
+    "Method": "GetParent",
+    "RelativePath": "api/ParentOrphan/parent/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WidowedOrphansManagement.Models.Parent",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WidowedOrphansManagement.WebApi.Controllers.ParentOrphanController",
+    "Method": "UpdateParent",
+    "RelativePath": "api/ParentOrphan/parent/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "parentDto",
+        "Type": "WidowedOrphansManagement.Models.ParentCreateUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WidowedOrphansManagement.WebApi.Controllers.ParentOrphanController",
+    "Method": "DeleteParent",
+    "RelativePath": "api/ParentOrphan/parent/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "WidowedOrphansManagement.WebApi.Controllers.StatusController",
     "Method": "GetStatuses",
     "RelativePath": "api/Status",

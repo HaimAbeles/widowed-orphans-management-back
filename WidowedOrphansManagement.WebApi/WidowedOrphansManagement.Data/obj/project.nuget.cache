@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DHZNCpFTd/w=",
+  "dgSpecHash": "ZU/H0erMLi8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\haimabe\\Desktop\\Haim Work\\WidowedOrphansManagement\\WidowedOrphansManagement.WebApi\\WidowedOrphansManagement.Data\\WidowedOrphansManagement.Data.csproj",
+  "projectFilePath": "C:\\Users\\haimabe\\Desktop\\Haim Work\\WidowedOrphansManagement\\widowed-orphans-management-back\\WidowedOrphansManagement.WebApi\\WidowedOrphansManagement.Data\\WidowedOrphansManagement.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\haimabe\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\haimabe\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
